@@ -5,3 +5,4 @@ Avoid modals for confirmation. Two-step confirmation of critical actions can usu
 
 Panels that move can clean up an interface with low impact on cognition.
 
+Context can be retained by blurring of elements behind a modal.
